@@ -1,7 +1,7 @@
 import java.util.Arrays
 
 fun main(){
-    var  characterArray = arrayOf("akeel","furkan","sahil","mahlika","minzah","mehak")
+    var  characterArray = arrayOf("akeel","furkan","sahil")
 
     // prints one element of array
     //println(characterArray[0])
